@@ -74,6 +74,7 @@ Link to the privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Firebase](https://firebase.google.com/terms)
+*   [Google Maps](https://cloud.google.com/maps-platform/terms)
 
 **Use of Your Personal Data**
 
