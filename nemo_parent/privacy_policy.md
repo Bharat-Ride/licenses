@@ -73,8 +73,7 @@ You can enable or disable access to this information at any time, through Your D
 Link to the privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase](https://firebase.google.com/terms)
 
 **Use of Your Personal Data**
 
