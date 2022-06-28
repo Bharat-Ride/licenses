@@ -18,9 +18,9 @@ For the purposes of this Privacy Policy:
 
 **Account** means a unique account created for You to access our Service or parts of our Service.
 
-**Application** means the software program provided by the Company downloaded by You on any electronic device, named nemo parent
+**Application** means the software program provided by the Company downloaded by You on any electronic device, named betterride parent
 
-**Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to nemo parent.
+**Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to betterride parent.
 
 **Country** refers to India
 
@@ -151,4 +151,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: info@findnemo.in
+*   By email: info@betterride.app
